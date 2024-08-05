@@ -13,7 +13,7 @@ The CML Fine Tuning Studio is a Cloudera-developed AMP that provides users with 
 
 ## High Level Feature
 
-* Import datasets, models, model PEFT adapters, and other components into the Application's UI for easy tracking of project resources
-* Design training prompt and inference prompt templates to be used to augment datasets for training, inference, and evaluation purposes
-* Launch fine tuning jobs and MLFlow evaluation jobs directly from the UI, which in turn kicks off appropriate CML Workloads
-* Locally compare generation results between different PEFT adapters for a given base model
+* Import datasets, models, model PEFT adapters, and other components into the Application's UI for easy tracking of project resources.
+* Design training prompt and inference prompt templates to be used to augment datasets for training, inference, and evaluation purposes.
+* Launch fine tuning jobs and MLFlow evaluation jobs directly from the UI, which in turn kicks off appropriate CML Workloads.
+* Locally compare generation results between different PEFT adapters for a given base model.
