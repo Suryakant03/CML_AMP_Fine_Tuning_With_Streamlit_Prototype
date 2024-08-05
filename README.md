@@ -11,7 +11,7 @@ The CML Fine Tuning Studio is a Cloudera-developed AMP that provides users with 
 
 ![Fine Tuning Studio Homepage](resources/images/fts_home.png)
 
-## High Level Features
+## High Level Feature
 
 * Import datasets, models, model PEFT adapters, and other components into the Application's UI for easy tracking of project resources
 * Design training prompt and inference prompt templates to be used to augment datasets for training, inference, and evaluation purposes
